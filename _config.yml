@@ -19,7 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: TCS in Flanders, Belgium
-email: 
+author: 
+  name: Guillermo A. Perez
+  email: guillermo.perez@uantwerpen.be
 description: >- # this means to ignore newlines until "baseurl:"
   In this website you find information about the researchers
   in Flanders, Belgium who do research on theoretical computer
@@ -29,6 +31,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  gaperez64
+
+header_pages:
+  - team.markdown
+  - about.markdown
 
 # Build settings
 theme: minima
