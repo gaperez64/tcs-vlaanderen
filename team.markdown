@@ -6,9 +6,14 @@ permalink: /team/
 
 ## University of Antwerp
 
-### Prof. Guillermo A. Perez
-![profile pic](/assets/gap.jpeg)
+<div class="researcher">
+<img src="/assets/gap.jpeg" alt="drawing" style="width:200px;"/>
+Guillermo A. Perez<br/>
+Associate Prof. @ UAntwerp<br/>
 Main interests:
-* Formal Verification
-* Automata and Logic
-* Leaning Theory
+<ul>
+<li>Formal Verification</li>
+<li>Automata and Logic</li>
+<li>Leaning Theory</li>
+</ul>
+</div>
