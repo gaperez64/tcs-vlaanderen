@@ -21,14 +21,14 @@
 title: TCS in Flanders, Belgium
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  In this website you will find information about the researchers
+  In this website you find information about the researchers
   in Flanders, Belgium who do research on theoretical computer
-  science topics. You will also find information about events and
+  science topics. You also find information about events and
   job openings from the corresponding research groups.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  gaperez64/tcs-vlaanderen
+#github_username:  gaperez64
 
 # Build settings
 theme: minima
