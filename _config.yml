@@ -19,9 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: TCS in Flanders, Belgium
-author: 
-  name: Guillermo A. Perez
-  email: guillermo.perez@uantwerpen.be
+author: Maintained by Guillermo A. Perez
 description: >- # this means to ignore newlines until "baseurl:"
   In this website you find information about the researchers
   in Flanders, Belgium who do research on theoretical computer
