@@ -5,7 +5,7 @@ permalink: /team/
 ---
 
 ## University of Antwerp
-<div class="researcher" style="width:200px; float:left;">
+<div class="researcher" style="width:200px; float:left; margin:10px;">
 <img src="/assets/benny.jpeg" alt="drawing" style="width:200px;"/><br/>
 Benny Van Houdt<br/>
 Professor @ UAntwerp<br/>
@@ -14,7 +14,7 @@ Professor @ UAntwerp<br/>
 </ul>
 </div>
 
-<div class="researcher" style="width:200px; float:left;">
+<div class="researcher" style="width:200px; float:left; margin:10px;">
 <img src="/assets/fgeerts.jpeg" alt="drawing" style="width:200px;"/><br/>
 Floris Geerts<br/>
 Professor @ UAntwerp<br/>
@@ -24,10 +24,10 @@ Professor @ UAntwerp<br/>
 </ul>
 </div>
 
-<div class="researcher" style="width:200px; float:left;">
+<div class="researcher" style="width:200px; float:left; margin:10px;">
 <img src="/assets/gap.jpeg" alt="drawing" style="width:200px;"/><br/>
 Guillermo A. Perez<br/>
-Associate Prof. @ UAntwerp<br/>
+Assoc. Prof. @ UAntwerp<br/>
 <ul>
 <li>Formal Verification</li>
 <li>Automata and Logic</li>
